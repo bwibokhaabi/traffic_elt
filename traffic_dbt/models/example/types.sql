@@ -1,0 +1,1 @@
+select type,count(*) from traffic group by type
