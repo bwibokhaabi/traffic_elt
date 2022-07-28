@@ -1,1 +1,0 @@
-select type,min(speed) from traffic group by type
