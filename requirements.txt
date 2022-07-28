@@ -1,7 +1,1 @@
-apache-airflow
-networkx
-Django
-gunicorn
-psycopg2-binary
-dj_database_url
-sqlalchemy
+dbt-postgres==1.1.1
