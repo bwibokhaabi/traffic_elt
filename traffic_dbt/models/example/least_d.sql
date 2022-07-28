@@ -1,1 +1,0 @@
-select type,min(traveled_d) from traffic group by type
