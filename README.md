@@ -18,12 +18,12 @@
   <p align="center">
     A dockerized ELT pipeline.
     <br />
-    <a href="https://open-traffic-dbt-doc.netlify.app"><strong>Explore the docs »</strong></a>
+    <a href="https://lucent-scone-3d2b12.netlify.app/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DiyeMark/Traffic-ELT/issues">Report Bug</a>
+    <a href="https://github.com/bwibokhaabi/traffic_elt/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DiyeMark/Traffic-ELT/issues">Request Feature</a>
+    <a href="https://github.com/bwibokhaabi/traffic_elt/issues">Request Feature</a>
   </p>
 </div>
 
@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![ELT](screenshots/traffic-flow-elt.jpg)
-A dockerized Extract, Load, Transform (ELT) pipeline with PostgreSQL, Airflow, DBT, and a Redash.
+A dockerized Extract, Load, Transform (ELT) pipeline with PostgreSQL, Airflow, DBT, and  Redash.
 
 ### Built With
 
@@ -76,11 +76,11 @@ Make sure you have docker installed on local machine.
 
 1. Clone the repo
     ```sh
-    git clone https://https://github.com/DiyeMark/Traffic-ELT.git
+    git clone https://github.com/bwibokhaabi/traffic_elt/.git
     ```
 2. Navigate to the folder
     ```sh
-    cd Traffic-ELT
+    cd traffic_elt
     ```
 3. Build an airflow image
     ```sh
